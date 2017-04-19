@@ -17,7 +17,7 @@ ASCII2Cyrillic is compatible with Python version 3.x.
 
 ```
 cd ASCII2Cyrillic
-python ASCII2Cyrillic.py
+python3 ASCII2Cyrillic.py
 ```
 
 # Mechanism
