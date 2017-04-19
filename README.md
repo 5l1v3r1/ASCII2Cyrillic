@@ -24,4 +24,4 @@ python3 ASCII2Cyrillic.py
 The way this tool works is by reading the user's ASCII input and each (ASCII) character gets replaced by a Unicode (Cyrillic) one. As you can see in the Preview Screenshot above, every character looks identical, making Cyrillic usage applicable for Social Engineering & Phishing attacks.
 
 # Credits
-PyInfect was created by [@0xCoto](https://github.com/0xCoto).
+ASCII2Cyrillic was created by [@0xCoto](https://github.com/0xCoto).
