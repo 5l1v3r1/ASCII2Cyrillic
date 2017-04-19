@@ -11,7 +11,7 @@ ASCII2Cyrillic is compatible with Python version 3.x.
 
 # Getting Started
 #### Installation
-```git clone https://github.com/0xCoto/PyInfect```
+```git clone https://github.com/0xCoto/ASCII2Cyrillic```
 
 #### Usage
 
